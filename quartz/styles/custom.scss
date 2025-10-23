@@ -1,3 +1,13 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// 1. Import the fonts we want from Google Fonts
+// We import Inter (default sans-serif) and our new choice, EB Garamond (serif)
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,700;1,400;1,700&family=Inter:wght@400;700&display=swap");
+
+// 2. Tell Quartz to use our new font
+:root {
+  // This overrides the default --serif variable and sets it to EB Garamond
+  --serif: "EB Garamond", "stix-two-text", "serif";
+}
