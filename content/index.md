@@ -4,9 +4,6 @@ draft: false
 tags:
   -
 ---
-
----
-## Refugium 
 | rɪˈfjuːdʒɪəm | noun
 
 >sicherer Ort, an dem jemand seine Zuflucht findet, an den er sich zurückziehen kann, um ungestört zu sein; Zufluchtsort.

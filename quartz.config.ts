@@ -23,8 +23,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Baskerville",
-        body: "EB Garamond",
+        header: "EB Garamond",
+        body: "Lexend",
         code: "IBM Plex Mono",
       },
       colors: {
