@@ -1,15 +1,17 @@
 ---
-title: Purpose
+title: Refugium
 draft: false
 tags:
   -
 ---
 
-**Refugium** | rɪˈfjuːdʒɪəm | noun
+---
+## Refugium 
+| rɪˈfjuːdʒɪəm | noun
 
-sicherer Ort, an dem jemand seine Zuflucht findet, an den er sich zurückziehen kann, um ungestört zu sein; Zufluchtsort.
-
-*A safe place where someone finds refuge, to which they can retreat to be undisturbed; a place of refuge.*
+>sicherer Ort, an dem jemand seine Zuflucht findet, an den er sich zurückziehen kann, um ungestört zu sein; Zufluchtsort.
+>
+>*safe place where someone finds refuge, to which they can retreat to be undisturbed; a place of refuge.*
 
 I use the word particularly in its German meaning, unrestricted by its English connotation. I chose is solely for the reason that I like the idea of collecting thoughts (my own and those of others) on some of  my own academic topics of interests in this place, where they can persist beyond my feeble memory or the chaos of the rest of the internet.
 
